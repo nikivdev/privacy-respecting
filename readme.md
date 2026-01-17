@@ -42,6 +42,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Searx](https://github.com/asciimoo/searx) - [Why use Searx?](https://asciimoo.github.io/searx)
 - [SearXNG](https://github.com/searxng/searxng) - [Fork of SearX](https://docs.searxng.org)
 - [Librengine](https://github.com/liameno/librengine) - Privacy Web Search Engine 
+- [Mojeek](https://www.mojeek.com/) - [Mojeek privacy policy](https://www.mojeek.com/about/privacy/)
 
 ## Social Networks
 
