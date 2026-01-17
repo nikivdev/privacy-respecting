@@ -10,7 +10,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Messengers](#messengers)
 - [Cloud Storage](#cloud-storage)
 - [VPN](#vpn)
-- [HOSTING](#hosting)
+- [Hosting](#hosting)
 - [Email](#email)
 - [Operating Systems](#operating-systems)
 - [Browsers](#browsers)
