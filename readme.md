@@ -180,6 +180,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Fedora](https://getfedora.org) - User-friendly linux distribution
 - [Tails OS](https://tails.boum.org/) - Secure operating system that runs off a live USB
 - [Qubes OS](https://www.qubes-os.org) - Operating system with strong focus on security
+- [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Security-focused Linux distribution based on Parrot OS with 135+ pre-installed pentesting and privacy tools.
 - iOS - [iOS 10 security white paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf).
 - [Android with LineageOS](https://lineageos.org/about/)
 - [Android with CalyxOS](https://calyxos.org/) - Only Pixel devices and Xiaomi Mi A2 supported.
@@ -206,6 +207,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - [More about Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium#credits).
 - [Kiwi Browser](https://kiwibrowser.com/) — Chromium fork with support for Chrome extensions, enhanced privacy, ad/tracking blocking, and misc improvements. Android only.
 - [Bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with support for ad blocking and enhanced privacy. Available only for android devices.
+- [Marshall](https://github.com/bad-antics/marshall) - Hardened privacy browser built on WebKit2GTK with built-in ad/tracker blocking, fingerprint resistance, HTTPS enforcement, and no telemetry. Linux native.
 
 **❔ Questionable:**
 
