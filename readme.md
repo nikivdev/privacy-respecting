@@ -96,6 +96,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Public XMPP services](https://xmpp.net/) - Choose one, talk to any, or run your own with [Prosody](https://prosody.im/).
 - [Wickr](https://www.wickr.com/) - Encrypted Ephemeral Platform Trusted By Millions Worldwide.
 - [Semaphor](https://spideroak.com/) - Encrypted, decentralized authority team chat and file sharing.
+- [Vector](https://vectorapp.io) - No KYC, E2EE, Decentralized, Censorship-Resistant, No Metadata.
 
 **❔ Questionable:**
 
