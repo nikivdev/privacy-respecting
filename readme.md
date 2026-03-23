@@ -16,6 +16,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Browsers](#browsers)
 - [Video Sharing](#video-sharing)
 - [AI Assistants](#ai-assistants)
+- [Maps & Navigation](#maps--navigation)
 - [Related](#related)
 
 ## What?
@@ -239,6 +240,18 @@ The list is separated into topics and each service or software stated gives supp
 
 - [Mycroft](https://mycroft.ai/) - Open-source AI assistant, range of hardware options.
 - Apple Siri and HomePod - [Apple Privacy](https://www.apple.com/lae/privacy/).
+
+## Maps & Navigation
+
+**⚠️ You are the product:**
+
+- Google Maps - Collects detailed location data and builds location profiles.
+- Mapbox - Collects telemetry data from SDK usage.
+
+**🔏 Alternatives:**
+
+- [OpenStreetMap](https://www.openstreetmap.org/) - Community-built open mapping data with no tracking.
+- [MapAtlas](https://mapatlas.eu) - European privacy-first mapping API for geocoding, routing, and map tiles. EU-hosted, GDPR compliant, ISO 27001 certified, no user tracking or IP logging.
 
 ## Related
 
