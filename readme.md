@@ -253,6 +253,16 @@ The list is separated into topics and each service or software stated gives supp
 - [OpenStreetMap](https://www.openstreetmap.org/) - Community-built open mapping data with no tracking.
 - [MapAtlas](https://mapatlas.eu) - European privacy-first mapping API for geocoding, routing, and map tiles. EU-hosted, GDPR compliant, ISO 27001 certified, no user tracking or IP logging.
 
+## Journaling
+
+**⚠️ You are the product:**
+
+- Day One - [Collects analytics and requires account creation](https://dayoneapp.com/privacy-policy/). Cloud-synced by default.
+
+**🔏 Alternatives:**
+
+- [DailyVox](https://getdailyvox.com) - Free AI voice diary for iOS. 100% on-device processing — speech recognition, NLP, and mood tracking all run locally. No accounts, no servers, no third-party SDKs. Apple privacy label: Data Not Collected. ([App Store](https://apps.apple.com/app/id6760454642))
+
 ## Related
 
 - [Security Checklist](https://securitycheckli.st/) - Open source checklist of resources designed to improve your online privacy and security.
