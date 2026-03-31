@@ -287,5 +287,6 @@ The list is separated into topics and each service or software stated gives supp
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 - [privacy.sexy](https://privacy.sexy) - Open-source tool enforce privacy & security best-practices on desktop operating systems.
 - [EncryptedList](https://encryptedlist.xyz/) - List of services that offer zero-knowledge or end-to-end encryption 🔐.
+- [ConvertPrivately](https://convertprivately.com) - Privacy-first file conversion and utility tools for PDFs, images, documents, and data. Almost all of the 250+ tools run directly in the browser with no uploads or tracking (with a clear warning for the few that require server-side processing).
 
 [![Discord](https://go.nikiv.dev/badge-discord)](https://go.nikiv.dev/discord) [![X](https://go.nikiv.dev/badge-x)](https://x.com/nikivdev) [![nikiv.dev](https://go.nikiv.dev/badge-nikiv)](https://nikiv.dev)
