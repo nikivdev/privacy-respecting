@@ -16,6 +16,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Browsers](#browsers)
 - [Video Sharing](#video-sharing)
 - [AI Assistants](#ai-assistants)
+- [Clipboard Managers](#clipboard-managers)
 - [Maps & Navigation](#maps--navigation)
 - [Related](#related)
 
@@ -240,6 +241,16 @@ The list is separated into topics and each service or software stated gives supp
 
 - [Mycroft](https://mycroft.ai/) - Open-source AI assistant, range of hardware options.
 - Apple Siri and HomePod - [Apple Privacy](https://www.apple.com/lae/privacy/).
+
+## Clipboard Managers
+
+**⚠️ You are the product:**
+
+- Windows Clipboard History (Win+V) - Syncs clipboard data to Microsoft cloud when "Sync across devices" is enabled. Tied to Microsoft account.
+
+**🔏 Alternatives:**
+
+- [Beetroot](https://github.com/mnardit/beetroot-releases) - Desktop clipboard manager for Windows with all data stored locally in SQLite. Zero telemetry, no cloud sync, no account required. Detects password managers (1Password, Bitwarden, KeePass) and respects their clipboard exclusion. Free, closed-source.
 
 ## Maps & Navigation
 
