@@ -240,6 +240,7 @@ The list is separated into topics and each service or software stated gives supp
 
 - [Mycroft](https://mycroft.ai/) - Open-source AI assistant, range of hardware options.
 - Apple Siri and HomePod - [Apple Privacy](https://www.apple.com/lae/privacy/).
+- [Typer](https://typer.space) - Free local AI chat for macOS (Apple Silicon). Runs entirely on-device — no account, no cloud, no ads. Works offline.
 
 ## Maps & Navigation
 
