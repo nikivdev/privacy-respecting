@@ -98,6 +98,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Wickr](https://www.wickr.com/) - Encrypted Ephemeral Platform Trusted By Millions Worldwide.
 - [Semaphor](https://spideroak.com/) - Encrypted, decentralized authority team chat and file sharing.
 - [Vector](https://vectorapp.io) - No KYC, E2EE, Decentralized, Censorship-Resistant, No Metadata.
+- [BChat](https://bchat.beldex.io/) - BChat is a privacy messaging app built on Beldex blockchain, doesn't require phone number to sign in.
 
 **❔ Questionable:**
 
