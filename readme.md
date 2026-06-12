@@ -17,6 +17,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Video Sharing](#video-sharing)
 - [AI Assistants](#ai-assistants)
 - [Maps & Navigation](#maps--navigation)
+- [Health & Habit Tracking](#health--habit-tracking)
 - [Related](#related)
 
 ## What?
@@ -252,6 +253,17 @@ The list is separated into topics and each service or software stated gives supp
 
 - [OpenStreetMap](https://www.openstreetmap.org/) - Community-built open mapping data with no tracking.
 - [MapAtlas](https://mapatlas.eu) - European privacy-first mapping API for geocoding, routing, and map tiles. EU-hosted, GDPR compliant, ISO 27001 certified, no user tracking or IP logging.
+
+## Health & Habit Tracking
+
+**⚠️ You are the product:**
+
+- MyFitnessPal - Ad-supported and shares user data with third parties; suffered a 2018 breach exposing about 150 million accounts.
+- Noom - Subscription weight-loss app that collects extensive personal health and behavioral data.
+
+**🔏 Alternatives:**
+
+- [LogZero](https://logzero.app) - Private, on-device life and habit tracker for iOS — mood, food, exercise, medication, weight and to-dos — with no account, no ads and no telemetry. Local-first alternative to Daylio and MyFitnessPal.
 
 ## Related
 
