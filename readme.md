@@ -210,6 +210,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Kiwi Browser](https://kiwibrowser.com/) — Chromium fork with support for Chrome extensions, enhanced privacy, ad/tracking blocking, and misc improvements. Android only.
 - [Bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with support for ad blocking and enhanced privacy. Available only for android devices.
 - [Marshall](https://github.com/bad-antics/marshall) - Hardened privacy browser built on WebKit2GTK with built-in ad/tracker blocking, fingerprint resistance, HTTPS enforcement, and no telemetry. Linux native.
+- [Nav0](https://nav0.org) - Minimal, open-source desktop browser built on Chromium with zero telemetry, tracking, or data collection.
 
 **❔ Questionable:**
 
