@@ -145,6 +145,7 @@ The list is separated into topics and each service or software stated gives supp
 - [IVPN](https://www.ivpn.net/) - Gibraltar based no logs VPN which is open source, third party audited and doesn't require any personal data (not even email) to sign up. Accepts cash payments, Bitcoin, Monero, PayPal, and more.
 - [Mullvad](https://mullvad.net/) - Swedish based VPN provider that retains no logs, and uses a mostly open source and transparent infrastructure available to the public. Accepts Bitcoin, anonymous cash payments via envelope, PayPal, and more.
 - [OVPN](https://www.ovpn.com/) - Swedish provider that operates VPN servers without any hard drives, has a strict no logs policy, and publishes transparency reports. Accepts Bitcoin, anonymous cash payments, PayPal, and more.
+- [BelNet](https://belnet.beldex.io/) - BelNet is a decentralized VPN on Beldex blockchain using a peer-to-peer network for private, secure, and unrestricted internet access.
 
 ## Email
 
