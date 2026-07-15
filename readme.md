@@ -240,6 +240,7 @@ The list is separated into topics and each service or software stated gives supp
 **🔏 Alternatives:**
 
 - [Mycroft](https://mycroft.ai/) - Open-source AI assistant, range of hardware options.
+- [Tura](https://github.com/Tura-AI/tura) - Local-first open-source coding agent that keeps workflows on your machine and supports local models or user-controlled OpenAI-compatible providers.
 - Apple Siri and HomePod - [Apple Privacy](https://www.apple.com/lae/privacy/).
 
 ## Maps & Navigation
