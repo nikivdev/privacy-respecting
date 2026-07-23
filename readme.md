@@ -9,6 +9,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Social Networks](#social-networks)
 - [Messengers](#messengers)
 - [Cloud Storage](#cloud-storage)
+- [File Transfer](#file-transfer)
 - [VPN](#vpn)
 - [Hosting](#hosting)
 - [Email](#email)
@@ -128,6 +129,12 @@ The list is separated into topics and each service or software stated gives supp
 **❔ Questionable:**
 
 - [Keybase](https://keybase.io/) - End-to-end encrypted chat and Dropbox alternative. It's backend is not open source and it also [got merged with Zoom](https://keybase.io/blog/keybase-joins-zoom)
+
+## File Transfer
+
+**🔏 Alternatives:**
+
+- [8ma Quick Transfer](https://t.8ma.co/) - Transfers file content directly between devices without requiring an account or storing the files on the platform. See its [privacy statement](https://t.8ma.co/privacy/).
 
 ## Hosting
 
