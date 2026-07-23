@@ -15,6 +15,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Operating Systems](#operating-systems)
 - [Browsers](#browsers)
 - [Video Sharing](#video-sharing)
+- [Voice Recording & Transcription](#voice-recording--transcription)
 - [AI Assistants](#ai-assistants)
 - [Maps & Navigation](#maps--navigation)
 - [Related](#related)
@@ -228,6 +229,12 @@ The list is separated into topics and each service or software stated gives supp
 - [DTube](https://d.tube/) - [What is DTube?](https://about.d.tube/)
 - [Peertube](https://joinpeertube.org) - [Peertube instances](https://instances.joinpeertube.org).
 - [BitChute](https://www.bitchute.com/) - [Peer to peer video sharing platform](https://en.wikipedia.org/wiki/BitChute).
+
+## Voice Recording & Transcription
+
+**🔐 Alternatives:**
+
+- [echo99](https://www.echo99.app/) - Records and transcribes Mac calls locally without an account or audio uploads; only an anonymous install identifier is sent during update checks. [Privacy policy](https://www.echo99.app/privacy-policy).
 
 ## AI Assistants
 
