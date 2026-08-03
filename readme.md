@@ -86,6 +86,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Signal](https://whispersystems.org/) - Uses [Signal Protocol](http://en.wikipedia.org/wiki/Signal_Protocol).
 - [Silence](https://silence.im/) - Fork of Signal based on SMS instead of a server.
 - [Session](https://getsession.org/) - Session is an end-to-end encrypted messenger that minimises sensitive metadata, doesn't even require phone number to sign up.
+- [elm.chat](https://elm.chat) - Open-source, account-free rooms that encrypt messages in the browser and do not persist a server-side chat transcript. [Source](https://github.com/shawnbure/elm-chat) and [security notes](https://github.com/shawnbure/elm-chat/blob/main/SECURITY.md).
 - [Element (formely Riot)](https://element.io) - Secure decentralized chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
 - [Threema](https://threema.ch/en/) - [FAQ](https://threema.ch/en/faq).
 - [Jami (formely Ring)](https://jami.net/) - Distributed universal and secure Free Software for multimedia communications.
