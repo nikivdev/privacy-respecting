@@ -241,6 +241,7 @@ The list is separated into topics and each service or software stated gives supp
 
 - [Mycroft](https://mycroft.ai/) - Open-source AI assistant, range of hardware options.
 - Apple Siri and HomePod - [Apple Privacy](https://www.apple.com/lae/privacy/).
+- [Atomic Agent](https://atomicagent.io) - Local-first CLI and TUI coding assistant that runs open-weight models entirely on your machine through a llama.cpp fork. No account or API key required. MIT licensed, macOS, Linux and Windows. [Code](https://github.com/AtomicBot-ai/atomic-agent).
 
 ## Maps & Navigation
 
