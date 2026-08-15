@@ -17,6 +17,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Video Sharing](#video-sharing)
 - [AI Assistants](#ai-assistants)
 - [Maps & Navigation](#maps--navigation)
+- [Metadata Removal](#metadata-removal)
 - [Related](#related)
 
 ## What?
@@ -253,6 +254,12 @@ The list is separated into topics and each service or software stated gives supp
 
 - [OpenStreetMap](https://www.openstreetmap.org/) - Community-built open mapping data with no tracking.
 - [MapAtlas](https://mapatlas.eu) - European privacy-first mapping API for geocoding, routing, and map tiles. EU-hosted, GDPR compliant, ISO 27001 certified, no user tracking or IP logging.
+
+## Metadata Removal
+
+**🔏 Alternatives:**
+
+- [MetaClean](https://github.com/Moresyl/metaclean) - Removes metadata from images, Office documents, PDFs, and text files entirely offline, without uploading files.
 
 ## Related
 
