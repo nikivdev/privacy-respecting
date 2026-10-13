@@ -288,5 +288,6 @@ The list is separated into topics and each service or software stated gives supp
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 - [privacy.sexy](https://privacy.sexy) - Open-source tool enforce privacy & security best-practices on desktop operating systems.
 - [EncryptedList](https://encryptedlist.xyz/) - List of services that offer zero-knowledge or end-to-end encryption 🔐.
+- [XChat Directory messenger comparison](https://xchat.directory/best-encrypted-messaging-apps) - Side-by-side ranking of encrypted messengers (Signal, SimpleX, Session, Threema, Briar and more) by E2EE defaults, metadata and phone-number requirements.
 
 [![Discord](https://go.nikiv.dev/badge-discord)](https://go.nikiv.dev/discord) [![X](https://go.nikiv.dev/badge-x)](https://x.com/nikivdev) [![nikiv.dev](https://go.nikiv.dev/badge-nikiv)](https://nikiv.dev)
