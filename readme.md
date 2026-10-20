@@ -145,6 +145,7 @@ The list is separated into topics and each service or software stated gives supp
 - [IVPN](https://www.ivpn.net/) - Gibraltar based no logs VPN which is open source, third party audited and doesn't require any personal data (not even email) to sign up. Accepts cash payments, Bitcoin, Monero, PayPal, and more.
 - [Mullvad](https://mullvad.net/) - Swedish based VPN provider that retains no logs, and uses a mostly open source and transparent infrastructure available to the public. Accepts Bitcoin, anonymous cash payments via envelope, PayPal, and more.
 - [OVPN](https://www.ovpn.com/) - Swedish provider that operates VPN servers without any hard drives, has a strict no logs policy, and publishes transparency reports. Accepts Bitcoin, anonymous cash payments, PayPal, and more.
+- [Secria VPN](https://secria.me/vpn/) - WireGuard VPN with an ML-KEM-1024 post-quantum key exchange on every connection, 3-hop routing, private DNS with DNSSEC and a kill switch. Keeps no activity logs ([VPN whitepaper](https://secria.me/whitepaper/vpn/), [Privacy policy](https://secria.me/privacy-policy/)).
 
 ## Email
 
