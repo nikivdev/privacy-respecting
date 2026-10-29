@@ -288,5 +288,6 @@ The list is separated into topics and each service or software stated gives supp
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 - [privacy.sexy](https://privacy.sexy) - Open-source tool enforce privacy & security best-practices on desktop operating systems.
 - [EncryptedList](https://encryptedlist.xyz/) - List of services that offer zero-knowledge or end-to-end encryption 🔐.
+- [Ditchly](https://ditchly.co) - Free and open-source alternatives to paid apps, scored on a public checklist, with switch guides.
 
 [![Discord](https://go.nikiv.dev/badge-discord)](https://go.nikiv.dev/discord) [![X](https://go.nikiv.dev/badge-x)](https://x.com/nikivdev) [![nikiv.dev](https://go.nikiv.dev/badge-nikiv)](https://nikiv.dev)
