@@ -88,6 +88,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Session](https://getsession.org/) - Session is an end-to-end encrypted messenger that minimises sensitive metadata, doesn't even require phone number to sign up.
 - [Element (formely Riot)](https://element.io) - Secure decentralized chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
 - [Threema](https://threema.ch/en/) - [FAQ](https://threema.ch/en/faq).
+- [Zukka](https://zukka.app/us/) - Private Android messenger with zero local chat history stored on the phone, split-key encryption, disposable rotatable invite codes, multi-account decoy PINs, and no phone number or email required ([Google Play](https://play.google.com/store/apps/details?id=com.zukka.app&gl=us)).
 - [Jami (formely Ring)](https://jami.net/) - Distributed universal and secure Free Software for multimedia communications.
 - [Ricochet](https://ricochet.im/) - Anonymous instant messaging.
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
