@@ -166,6 +166,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Fastmail](https://fastmail.com) - Email, calendars, and contacts. [Privacy Policy](https://www.fastmail.com/about/privacy.html).
 - [Kolab Now](https://kolabnow.com) - Online service providing personal [Kolab Groupware](https://kolabenterprise.com) on desired level. [Privacy Statement](https://kolabnow.com/privacy).
 - [Skiff](https://skiff.com) - End-to-end encrypted email, document collaboration, wikis, and Drive. [Privacy policy](https://app.skiff.org/docs/db93c237-84c2-4b2b-9588-19a7cd2cd45a#tyGksN9rkqbo2uGYASxsA6HVLjUoly/wTYK8tncTto8=).
+- [anon.li](https://anon.li) - Open-source (AGPL-3.0) email aliases that forward to your real inbox, with replies through the alias, optional PGP-encrypted forwarding and removal of known tracking pixels. [Security model](https://anon.li/security).
 - [Self-host your own Email server](https://www.c0ffee.net/blog/mail-server-guide). Note that this route is not recommended unless you know exactly what you're doing, otherwise you might end up with terrible security on the server side.
 
 ## Operating Systems
