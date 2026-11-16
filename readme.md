@@ -254,7 +254,17 @@ The list is separated into topics and each service or software stated gives supp
 - [OpenStreetMap](https://www.openstreetmap.org/) - Community-built open mapping data with no tracking.
 - [MapAtlas](https://mapatlas.eu) - European privacy-first mapping API for geocoding, routing, and map tiles. EU-hosted, GDPR compliant, ISO 27001 certified, no user tracking or IP logging.
 
-## Related
+
+## Data Broker Removal
+
+**You are the product:**
+
+- Data brokers - Collect and sell personal information.
+
+**Alternatives:**
+
+- [Ghost Delete](https://ghostdelete.com) - Data broker removal service for the US and Canada. Free exposure scan, and viewable proof for every confirmed removal.
+ ## Related
 
 - [Security Checklist](https://securitycheckli.st/) - Open source checklist of resources designed to improve your online privacy and security.
 - [Privacy Tools](https://www.privacytools.io/) - Encryption against global mass surveillance. [(GitHub)](https://github.com/privacytoolsIO/privacytools.io)
