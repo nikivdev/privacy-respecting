@@ -145,6 +145,7 @@ The list is separated into topics and each service or software stated gives supp
 - [IVPN](https://www.ivpn.net/) - Gibraltar based no logs VPN which is open source, third party audited and doesn't require any personal data (not even email) to sign up. Accepts cash payments, Bitcoin, Monero, PayPal, and more.
 - [Mullvad](https://mullvad.net/) - Swedish based VPN provider that retains no logs, and uses a mostly open source and transparent infrastructure available to the public. Accepts Bitcoin, anonymous cash payments via envelope, PayPal, and more.
 - [OVPN](https://www.ovpn.com/) - Swedish provider that operates VPN servers without any hard drives, has a strict no logs policy, and publishes transparency reports. Accepts Bitcoin, anonymous cash payments, PayPal, and more.
+- [Party VPN](https://partyvpn.com) - WireGuard and AmneziaWG VPN paid only in cryptocurrency, Monero included, and billed by the connected hour. Its privacy policy lists what the service keeps: account email and name, payment records and each VPN's last handshake time for billing.
 
 ## Email
 
