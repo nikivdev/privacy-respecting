@@ -17,6 +17,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Video Sharing](#video-sharing)
 - [AI Assistants](#ai-assistants)
 - [Maps & Navigation](#maps--navigation)
+- [Travel Organizers](#travel-organizers)
 - [Related](#related)
 
 ## What?
@@ -253,6 +254,16 @@ The list is separated into topics and each service or software stated gives supp
 
 - [OpenStreetMap](https://www.openstreetmap.org/) - Community-built open mapping data with no tracking.
 - [MapAtlas](https://mapatlas.eu) - European privacy-first mapping API for geocoding, routing, and map tiles. EU-hosted, GDPR compliant, ISO 27001 certified, no user tracking or IP logging.
+
+## Travel Organizers
+
+**⚠️ You are the product:**
+
+- TripIt - Owned by SAP Concur. Its terms grant a perpetual license to your uploaded trips for commercial and advertising use, even after you delete them.
+
+**🔏 Alternatives:**
+
+- [Past the Hedge](https://pastthehedge.com) - Trip organizer that builds trips from booking emails you forward, with no inbox access and no ads. Closed source, and an AI provider parses the forwarded emails.
 
 ## Related
 
